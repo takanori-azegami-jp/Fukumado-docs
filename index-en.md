@@ -31,19 +31,16 @@ The app uses only the minimum permissions necessary for basic operation.
 This app is designed with privacy as the top priority and operates based on the following principles:
 
 - **No collection of personal data**
-- **No data storage on device**
-- **No transmission of information to external servers**
-- **No use of cookies or tracking technologies**
 
 #### 4.1 Stored Data
 
-**This app does not store any data on the device.**
+**To improve user convenience, this app stores only the following configuration information on the device:**
 
-#### 4.2 Data Transmission
+- App settings (display settings, behavior settings, etc.)
 
-**This app does not transmit any information to external servers.**
+**All this information is stored only on the device and is never transmitted to external servers.**
 
-#### 4.3 Advertising Services
+#### 4.2 Advertising Services
 
 **This app does not use advertising services.**
 
@@ -51,17 +48,17 @@ This app is designed with privacy as the top priority and operates based on the 
 
 #### 5.1 No Collection of Personal Information
 
-The developer does not implement any features to collect personal information within the app and does not store any data on the user's device.
+The developer does not implement any features to collect personal information within the app. The information stored on the device is limited to configuration data for improving user convenience.
 
-**No personal information is collected, and no data, including non-personal information, is collected or stored.**
+**No personal information is collected, and the data stored on the device is limited to configuration data only.**
 
 #### 5.2 Ensuring Data Accuracy
 
-Since this app does not collect or store data, there are no issues related to data accuracy.
+The configuration information stored on the device by this app consists only of settings configured by the user, ensuring that the latest settings are always reflected.
 
 #### 5.3 Security Measures
 
-Since this app does not collect, store, or transmit data, there is no risk of information leakage.
+The configuration information stored on the device by this app does not include personal information, minimizing privacy risks. Additionally, this information is stored only on the device and is never transmitted externally.
 
 #### 5.4 Provision of Data to Third Parties
 
@@ -80,7 +77,7 @@ By installing the app, the user is considered to have agreed to this Privacy Pol
 
 #### 6.2 How to Delete Data
 
-Since this app does not collect or store data, there is no data to delete.
+The configuration information stored on the device by this app can be completely deleted by uninstalling the app. Additionally, individual settings can be reset through the app's settings screen.
 
 ### 7. Children's Privacy
 
